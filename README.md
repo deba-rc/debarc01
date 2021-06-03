@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deba-rc01
+- 👋 Hi, I’m @debarc01
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Quantum Computing
 - 💞️ I’m looking to collaborate on Quantum DL frameworks
